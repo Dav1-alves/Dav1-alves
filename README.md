@@ -1,4 +1,4 @@
-# Olá, Eu sou Dav1-alves  | ![GitHub stars](https://img.shields.io/github/stars/Dav1-alves?affiliations=OWNER%2CCOLLABORATOR&style=social)
+# Olá, Eu sou Dav1-alves 😉  | ![GitHub stars](https://img.shields.io/github/stars/Dav1-alves?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 
 ## <Sobre mim/>
